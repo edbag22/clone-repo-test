@@ -8,5 +8,4 @@ tja
 
 test
 
-test igen
 
