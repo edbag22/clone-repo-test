@@ -14,7 +14,7 @@ class SuccedingTest(TestCase):
 
     def test_should_succeed_with_expected_result(self):
         # The addition function will add the two numbers, meaning that test should pass
-        self.assertEqual(10, addition_function_to_pass_unit_test(5,5))
+        self.assertEqual(11, addition_function_to_pass_unit_test(5,5))
 
 if __name__ == "__main__":
     main()
