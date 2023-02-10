@@ -1,7 +1,7 @@
 '''
 FAULTLESS TEST CASES 
 '''
-from src.main import *
+from main import *
 from unittest import main, TestCase
 
 
